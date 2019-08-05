@@ -1,2 +1,8 @@
 # Anteater Mines
-A game where you take damage the deeper you go down/ challenging platformer
+Platformer Game Using Unity
+
+What I Have Learned:
+
+Unity Libraries 
+
+Data Structures
