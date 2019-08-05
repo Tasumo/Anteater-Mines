@@ -1,5 +1,5 @@
 # Anteater Mines
-Platformer Game Using Unity
+Anteater platformer game using Unity
 
 What I Have Learned:
 
